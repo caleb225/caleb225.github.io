@@ -1,0 +1,36 @@
+body {
+    text-align: left;
+    background: rgba(95, 63, 33, 0.76);
+    font: size 16px; 
+    font-family: Verdana, Geneva, sans-serif;
+    color: rgb(43, 27, 7);
+}
+
+header, footer {
+    background: rgb(13, 93, 116);
+}
+
+table th {
+    text-align: center;
+    background-color: rgb(13, 93, 116);
+    color: rgb(41, 185, 185);
+    padding: 4px 10px;
+    border: 1px solid rgb(43, 27, 7);
+}
+table td {
+    border: 1px solid rgb(43, 27, 7);
+    color: rgb(43, 27, 7);
+    padding: 4px 8px;
+}
+
+h2 {
+    color: rgb(13, 93, 116);
+}
+
+div {
+    margin: 10px;
+}
+
+table {
+    text-align: center;
+}
